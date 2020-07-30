@@ -1,6 +1,6 @@
 # Write your solution here
 
-run_code_inside = TRUE
+=begin run_code_inside = TRUE
 puts "Code before if...end"
 if run_code_inside
   puts "code inside"
@@ -21,4 +21,4 @@ if chance_of_rain > 0.5
 else
   puts "Enjoy the fine day!"
 end
-puts "Oh, and always wear sunscreen!"
+puts "Oh, and always wear sunscreen!" =end 
